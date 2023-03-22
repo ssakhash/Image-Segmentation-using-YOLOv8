@@ -1,6 +1,7 @@
 # Image-Segmentation-using-YOLOv8
 
 This is a simple implementation of YOLO segmentation for real-time object detection and segmentation in video streams. The code uses the YOLO (You Only Look Once) object detection model with segmentation capabilities to process video frames and display the results in a window. The model predicts bounding boxes and segmentation contours for each object detected in the video frame.
+
 Dependencies
 
     OpenCV: pip install opencv-python
